@@ -1,6 +1,6 @@
 #!/bin/bash
 mkdir $1
 cd $1
-touch README.md Start.md Novice.md Advanced.md
+touch README.md Start.md Novice.md Advance.md
 ls -l
 cd ..
