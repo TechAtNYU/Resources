@@ -7,7 +7,7 @@ Version control is a tool that individuals use, in essence, to save multiple ver
 
 Most companies, such as Microsoft, Google, Apple, Facebook, Twitter use it now days and it's an important tool to be using in your projects. It's very simple and easy to learn, and it's equally as rewarding.
 
-Github is based off of Git, and in order to start learning how to use Github you need to be getting more familiar with Git. 
+Github is based off of Git, and in order to start learning how to use Github you need to be getting more familiar with Git. Moreover, Github also allows individuals to collaborate on their code, and keep it in the same version.
 
 Websites
 
