@@ -5,5 +5,5 @@ There are only a handful of tutorials and resources on the language Go online. W
 
 Firstly, the "Hello, World" of Go:
 
-    [Hello, World](http://golangtutorials.blogspot.com/2011/05/very-simple-go-hello-world-line-by-line.html)
+[Hello, World](http://golangtutorials.blogspot.com/2011/05/very-simple-go-hello-world-line-by-line.html)
 
