@@ -1,10 +1,8 @@
-[GoLang](http://www.golang.org/) - GoLang Resources
+[Go](http://www.golang.org/) - Resources
 ==================================================
 
-Tech@NYU is growing the technology culture in New York City. 
+Go is a programming language developed by Google in 2007. Go aims to provide the efficiency of a [statically typed](http://en.wikipedia.org/wiki/Statically_typed#Static_typing) compiled language while being easy to program. 
 
-To get there, we need students continually building, to learn and internalize the nuances of great product and business. Tech@NYU is the sandbox that students need: a place to experiment, a forum for recognition, a community for discussion and sharing, and a stage for inspiration.
+The syntax of Go is similar to C: it uses curly braces, however semi-colons are optional. Variable deceleration are written differently, and it introduces new built-in types such as Maps, Array slices, and channels for thread-to-thread communication.
 
-As there are too many different websites and places where allow individuals are able to find resources, we want to centralize it to a location where the community is able to contribute as well as our members.
-
-We're encouraging people to use our resources as they are heavily moderated by individuals who have experience with these technologies, and we aim to provide a place for individuals to find beginner to advance level resources.
+However, Go does not include the traditional type inheritance, pointer arithmetic, method overloading, or even generic programming. There is heavy usage of interfaces, and on Concurrency by using goroutines. 
