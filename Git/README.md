@@ -8,4 +8,5 @@ Most companies, such as Microsoft, Google, Apple, Facebook, Twitter use it now d
 Github is based off of Git, and in order to start learning how to use Github you need to be getting more familiar with Git. 
 
 Websites
-  - http://www.git-scm.com/
+
+    Main Git: http://www.git-scm.com/
