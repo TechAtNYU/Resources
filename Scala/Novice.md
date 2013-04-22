@@ -1,0 +1,1 @@
+Simply Lift - Book that introduces you to the lift web framework written by David Pollock. URL: http://simply.liftweb.net/index-Chapter-1.html#toc-Chapter-1
