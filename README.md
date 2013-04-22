@@ -12,7 +12,7 @@ We're encouraging people to use our resources as they are heavily moderated by i
 Structure
 -------------------
 
-The structure of our Resources is divided into different text files. Here is the hierarchy of our structure:
+The structure of our resources is divided into different text files. Here is the hierarchy of our structure:
     
     - README.md: Gives you the basic information about the language, and updates on different versions
     - Start.md: The start file will contain links that will help you start learning about the topic - this will usually cover the syntax.
