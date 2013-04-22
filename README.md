@@ -8,3 +8,11 @@ To get there, we need students continually building, to learn and internalize th
 As there are too many different websites and places where allow individuals are able to find resources, we want to centralize it to a location where the community is able to contribute as well as our members.
 
 We're encouraging people to use our resources as they are heavily moderated by individuals who have experience with these technologies, and we aim to provide a place for individuals to find beginner to advance level resources.
+
+Structure
+-------------------
+
+The structure of our Resources is divided into different text files. Here is the hierarchy of our structure:
+    
+    - ReadMe: Gives you the basic information about the language, and updates on different versions
+    - Start: The start file will contain links that will help you start learning about the topic
