@@ -21,5 +21,4 @@ Moreover, after you've finished the Google Tutorial, there is final resource you
 
     http://golangtutorials.blogspot.fr/2011/05/table-of-contents.html
 
-This is a great tutorial on some of the key Go features, such as Goroutines, Web Servers, and some of the Object Orientated aspects go has, which weren't so clear in the Google tutorial.
-
+This is a great tutorial on some of the key Go features, such as Goroutines (Concurrency), Web Servers, and some of the Object Orientated aspects go has, which weren't so clear in the Google tutorial.

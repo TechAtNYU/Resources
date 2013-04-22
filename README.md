@@ -18,3 +18,4 @@ The structure of our resources is divided into different text files. Here is the
     - Start.md: The start file will contain links that will help you start learning about the topic - this will usually cover the syntax.
     - Novice.md: This are more advanced links for the language. This will cover more of the advanced syntax features of the language.
     - Advance.md: This will cover things that are specific to the specific language, and things it doesn't share with other languages.
+    - /Examples: For some of the languages we'll be providing some basic code you can go through, or examples of some of the libraries you can use.
