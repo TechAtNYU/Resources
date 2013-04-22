@@ -1,3 +1,6 @@
+Quickstart Vim
+==================================================
+
 Open Vim - A easy simulated Vim enviornment used for a quick Vim tutorial. URL: http://www.openvim.com/tutorial.html
 
 Vim commands cheat sheet - http://www.tuxfiles.org/linuxhelp/vimcheat.html
