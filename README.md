@@ -14,5 +14,7 @@ Structure
 
 The structure of our Resources is divided into different text files. Here is the hierarchy of our structure:
     
-    - ReadMe: Gives you the basic information about the language, and updates on different versions
-    - Start: The start file will contain links that will help you start learning about the topic
+    - README.md: Gives you the basic information about the language, and updates on different versions
+    - Start.md: The start file will contain links that will help you start learning about the topic. This will usually cover the basics of the language - from the syntax to arithmetic to functions. 
+    - Novice.md: This are more advanced links for the language. This will cover more of the advanced syntax features of the language.
+    - Advance.md: This will cover things that are specific to the specific language, and things it doesn't share with other languages.
