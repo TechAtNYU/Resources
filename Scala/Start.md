@@ -1,3 +1,6 @@
+Quickstart Scala
+==================================================
+
 Here are some resources to get started on your programming in Scala. 
 
 To start with, the best way to tart learning would be to use The Scala School designed by Twitter.
