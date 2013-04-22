@@ -1,7 +1,9 @@
-Here are some resources to get started on your programming in Scala
+Here are some resources to get started on your programming in Scala. 
 
-Start with:
-http://twitter.github.io/scala_school/ - Probably the best way to begin learning about scala
+To start with, the best way to tart learning would be to use The Scala School designed by Twitter.
 
-Try solving some math problems in Scala when you start to feel comfortable and start to feel its power
-Project Euler- http://projecteuler.net
+    http://twitter.github.io/scala_school/
+
+When you start feeling more comfortable with the syntax and start to feel its power, try solving some math problems in Scala on Project Euler.
+
+    http://projecteuler.net
