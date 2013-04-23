@@ -27,3 +27,13 @@ The structure of our Language, Mobile, and Utilities resources are divided into 
     - Advance.md: This will cover things that are specific to the specific language, and things it doesn't share with other languages.
     - /Examples: For some of the languages we'll be providing some basic code you can go through, or examples of some of the libraries you can use.
     - /[Framework_Name]: There will be different frameworks within the folder itself. For example, Ruby on Rails is a framework on Ruby.
+
+Contribution
+-------------------
+
+If you have a change or a resource to add, you can submit a pull request, and we'll consider it.
+
+Contributors:
+
+- Jacob Preston (@JPrez38)
+- Abhi Agarwal (@AbhiAgarwal)
