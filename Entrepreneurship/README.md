@@ -5,5 +5,5 @@ Tech@NYU promotes the growing technological culture around entrepreneurship, and
 
 If you're not familiar with the [Hacker Culture](http://en.wikipedia.org/wiki/Hacker_(programmer_subculture)):
 
-    A hacker is someone who loves to program or who enjoys playful cleverness, or a combination of the two. The act of engaging in activities (such as programming or other media) in a spirit of playfulness and exploration is termed hacking. 
+A hacker is someone who loves to program or who enjoys playful cleverness, or a combination of the two. The act of engaging in activities (such as programming or other media) in a spirit of playfulness and exploration is termed hacking. 
 
