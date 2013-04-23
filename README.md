@@ -35,5 +35,5 @@ If you have a change or a resource to add, you can submit a pull request, and we
 
 Contributors:
 
-- Jacob Preston (@JPrez38)
-- Abhi Agarwal (@AbhiAgarwal)
+- [Jacob Preston](http://www.twitter.com/Jprez38) (@JPrez38)
+- [Abhi Agarwal](http://www.twitter.com/AbhiAgarwal) (@AbhiAgarwal)
