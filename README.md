@@ -12,6 +12,8 @@ We're encouraging people to use our resources as they are heavily moderated by i
 Structure
 -------------------
 
+We've broken down the sections into different places. The "Languages" folder will have programming language guides, the "Mobile" folder will have mobile development guides, and the "Utilities" folder will have guides for utilities.
+
 The structure of our resources is divided into different text files. Here is the hierarchy of our structure:
     
     - README.md: Gives you the basic information about the language, and updates on different versions
