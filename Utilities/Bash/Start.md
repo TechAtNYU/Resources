@@ -1,2 +1,2 @@
- Quickstart Bash
+Quickstart Bash
 ==================================================
