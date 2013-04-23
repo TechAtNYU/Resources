@@ -1,4 +1,4 @@
-[Entrepreneurship]
+Entrepreneurship
 ==================================================
 
 Tech@NYU promotes the growing technological culture around entrepreneurship, and the ventures it creates. We are all involved within the hacker culture around New York City in many different ways, and one of our key missions is to constantly "Ship" or build things for ourselves, for our community, and also for the fun of it. 
