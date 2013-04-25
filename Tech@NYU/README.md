@@ -1,9 +1,7 @@
 [Tech@NYU](http://www.techatnyu.org/) - Who are we?
 ==================================================
 
-Tech@NYU is growing the technology culture in New York City. 
-
-Tech@NYU was created in Fall 2009 to connect technical and non-technical NYU students interested in building technology startups. Incubated with the help of the NYU Stern Berkley Center for Entrepreneurship & Innovation, Tech@NYU held its first event in October 2009 to help students form teams for the Stern Business Plan Competition.
+Tech@NYU is growing the technology culture in New York City. We were created in Fall 2009 to connect technical and non-technical NYU students interested in building technology startups. Incubated with the help of the NYU Stern Berkley Center for Entrepreneurship & Innovation, Tech@NYU held its first event in October 2009 to help students form teams for the Stern Business Plan Competition.
 
 Events
 -------------------
@@ -13,9 +11,7 @@ Now, our events are routinely attended by over 2,000 members of the NYU undergra
 We hold events throughout the academic year, open to all students, with a focus on consistency as to build community:
 
     Every week, we host HackDays, Learn to Code, and, in collaboration with Parsons The New School of Design, DesignDays.
-
     Every month, we hold DemoDays. Projects students have worked on, either at HackDays, DesignDays, or in their dorm rooms get two to five minutes each to show the rest of the student population what they've produced. This is a celebration of sorts, a celebration of creation.
-
     Every semester, we host Startup Week, a weeklong event dedicated to the innovation occurring NYC and exposing students to startup culture.
 
 We also engage regularly with a number of NYC entrepreneurs who serve as mentors to students. Only a couple years old, Tech@NYU is one of the most diverse, most forward-moving student organizations in NYC.
