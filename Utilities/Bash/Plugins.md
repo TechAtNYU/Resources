@@ -1,2 +1,2 @@
-Quickstart Emacs
+Starting off Bash Plugins
 ==================================================

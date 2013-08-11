@@ -1,2 +1,2 @@
-Advanced Vim
+Starting off Git Plugins
 ==================================================

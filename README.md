@@ -12,12 +12,28 @@ We're encouraging people to use our resources as they are heavily moderated by i
 Structure
 -------------------
 
-We've broken down the sections into different places. The "Languages" folder will have programming language guides, the "Mobile" folder will have mobile development guides, and the "Utilities" folder will have guides for utilities.
+We've broken down the sections into different places. 
 
-The structure of our resources is divided into different text files. Here is the hierarchy of our structure:
+    "Entrepreneurship": Resources on Entrepreneurship,
+    "Languages": Programming language guides, 
+    "Mobile": Mobile development guides, 
+    "Utilities": Guides for utilities.
+
+The structure of our Language, Mobile, and Utilities resources are divided into different text files. Here is the hierarchy of our structure:
     
     - README.md: Gives you the basic information about the language, and updates on different versions
     - Start.md: The start file will contain links that will help you start learning about the topic - this will usually cover the syntax.
     - Novice.md: This are more advanced links for the language. This will cover more of the advanced syntax features of the language.
     - Advance.md: This will cover things that are specific to the specific language, and things it doesn't share with other languages.
     - /Examples: For some of the languages we'll be providing some basic code you can go through, or examples of some of the libraries you can use.
+    - /[Framework_Name]: There will be different frameworks within the folder itself. For example, Ruby on Rails is a framework on Ruby.
+
+Contribution
+-------------------
+
+If you have a change or a resource to add, you can submit a pull request, and we'll consider it.
+
+Contributors:
+
+- [Jacob Preston](http://www.twitter.com/Jprez38) (@JPrez38)
+- [Abhi Agarwal](http://www.twitter.com/AbhiAgarwal) (@AbhiAgarwal)
