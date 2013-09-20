@@ -3,6 +3,12 @@ Quickstart Android
 
 There are a great and vast amount of resources to start learning development for Android. I recommend you to try and go through all three of the tutorials that are listed below. You can choose between using the Youtube videos or going through the Vogella website.
 
+To learn how to setup the development tools for Android you can navigate to this website:
+
+    http://developer.android.com/sdk/index.html
+
+This will explain some of the fundamental things you have to download and the requirements you need. 
+
 For a first introduction to Android, the Developers at Android have created a great tutorial to explain, and go through the basic apps like "Hello, World".
 
     http://developer.android.com/training/basics/firstapp/index.html
