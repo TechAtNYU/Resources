@@ -7,7 +7,7 @@ To learn how to setup the development tools for Android you can navigate to this
 
     http://developer.android.com/sdk/index.html
 
-This will explain some of the fundamental things you have to download and the requirements you need. 
+This will explain some of the fundamental things you have to download and the requirements of your computer.
 
 For a first introduction to Android, the Developers at Android have created a great tutorial to explain, and go through the basic apps like "Hello, World".
 
