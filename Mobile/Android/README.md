@@ -6,7 +6,7 @@ Android is an open source Linux-based operating system. It was designed primaril
 It's used on the majority of smartphones over the world, and has dominated the market because of its open-source nature, and developer community.
 
 Websites
-  
+
     Wikipedia: http://en.wikipedia.org/wiki/Android_(operating_system)
     Andriod: http://www.android.com/
     Developer: http://developer.android.com/
