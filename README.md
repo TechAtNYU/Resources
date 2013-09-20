@@ -9,6 +9,8 @@ As there are too many different websites and places where allow individuals are 
 
 We're encouraging people to use our resources as they are heavily moderated by individuals who have experience with these technologies, and we aim to provide a place for individuals to find beginner to advance level resources.
 
+Our aim at putting it on Github was to allow individuals to quickly change the resources by submitting Pull Requests, and to get familiar with the Github environment. We think it's a great way for people to get started in programming, and a great way for individuals to help us moderate and improve this resource.
+
 Structure
 -------------------
 
@@ -17,7 +19,8 @@ We've broken down the sections into different places.
     "Entrepreneurship": Resources on Entrepreneurship,
     "Languages": Programming language guides, 
     "Mobile": Mobile development guides, 
-    "Utilities": Guides for utilities.
+    "Utilities": Guides for utilities,
+    "Tech@NYU": Our mission.
 
 The structure of our Language, Mobile, and Utilities resources are divided into different text files. Here is the hierarchy of our structure:
     
