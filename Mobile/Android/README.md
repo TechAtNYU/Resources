@@ -1,12 +1,12 @@
-[Andriod](http://developer.android.com/) - Resources
+[Android](http://developer.android.com/) - Resources
 ==================================================
 
-Andriod is an open source Linux-based operating system. It was designed primarily for touchscreen mobile devices, such as smartphones and tablet computers. It's usually programmed in Java, C, or C++, and has Google Play, and APK as its package manager. 
+Android is an open source Linux-based operating system. It was designed primarily for touchscreen mobile devices, such as smartphones and tablet computers. It's usually programmed in Java, C, or C++, and has Google Play, and APK as its package manager. 
 
 It's used on the majority of smartphones over the world, and has dominated the market because of its open-source nature, and developer community.
 
 Websites
   
     Wikipedia: http://en.wikipedia.org/wiki/Android_(operating_system)
-    Andriod: http://www.andriod.com/
-    Developer: http://developer.andriod.com/
+    Andriod: http://www.android.com/
+    Developer: http://developer.android.com/
