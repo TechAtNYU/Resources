@@ -6,7 +6,6 @@ We've compiled a long list of resources for to-be startup entrepreneurs to use a
     Startup Ideas: http://www.paulgraham.com/startupideas.html
     Startups in 13 sentences: http://www.paulgraham.com/13sentences.html
     Students guide to Startups: http://www.paulgraham.com/mit.html
-        
 
 Keep Building, Keep Shipping
 ==================================================
@@ -21,14 +20,14 @@ Entrepreneurship - NYU Articles
 For an introduction to entrepreneurship at NYU, there's a great article written by our very own David Byrd: 
 
     https://medium.com/entrepreneurship-at/4d4f017db086
-        
+
 It express the nature of entrepreneurship clubs and organizations at NYU. However, NYU runs its own Entrepreneurship initiatives. Such as the Innovation Venture Fund, the Entrepreneurs Network, the Entrepreneurs Challenge, and the NYU Summer Launchpad. The Links are below if you'd like more details on these organizations.
 
     Entrepreneurs Network: http://www.nyu.edu/about/university-initiatives/entrepreneurship/resources-for-entrepreneurs/entrepreneurs-network.html
     Entrepreneurs Challenge: http://www.nyu.edu/about/university-initiatives/entrepreneurship/resources-for-entrepreneurs/entrepreneurs-challenge.html
     NYU Summer Launchpad: http://www.nyu.edu/about/university-initiatives/entrepreneurship/resources-for-entrepreneurs/summer-launchpad.html
     Innovation Venture Fund: http://www.nyu.edu/about/university-initiatives/entrepreneurship/innovation-venture-fund.html
-        
+
 Moreover, they also have a long list of resources, which you're able to take advantage of as well as having a Entrepreneurs Handbook.
 
     Resources: http://www.nyu.edu/about/university-initiatives/entrepreneurship/resources-for-entrepreneurs/resources.html
