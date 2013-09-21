@@ -3,7 +3,12 @@ Quickstart Go
 
 There are only a handful of tutorials and resources on Go online. We're going to be providing you with the best tutorials for starting the Go language.
 
-Firstly, the "Hello, World" of Go: (20 Minutes)
+Firstly, to get started with Go you should watch the introduction video by Google:
+
+    http://www.youtube.com/watch?v=2KmHtgtEZ1s
+    http://www.youtube.com/watch?v=jgVhBThJdXc
+
+Next, the "Hello, World" of Go: (20 Minutes)
 
     http://golangtutorials.blogspot.com/2011/05/very-simple-go-hello-world-line-by-line.html
 
