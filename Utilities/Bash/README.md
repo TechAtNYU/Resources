@@ -5,7 +5,10 @@ Bash is a Unix shell distributed widely as the shell for the GNU operating syste
 
 It's an extremely useful tool to learn while using the Terminal on Mac OSX or the command prompt on Linux. It helps to in designing scripts to perform instructions.
 
-Websites
+**Websites**
 
-    Wikiepdia: https://en.wikipedia.org/wiki/Bash_(Unix_shell)
-    GNU: http://www.gnu.org/software/bash/manual/bashref.html
+- Wikiepdia: https://en.wikipedia.org/wiki/Bash_(Unix_shell)
+- GNU: http://www.gnu.org/software/bash/manual/bashref.html
+
+Quickstart Bash
+==================================================

@@ -7,6 +7,6 @@ New York City hosts some of the most prominent startups in the world. There's Tu
 
 If you're intrigued in finding the different startups created in New York, there's a great list created by the New York Tech Meetup and New York City:
 
-    Made in New York City: http://nytm.org/made-in-nyc
-    We're made in NYC: http://wearemadeinny.com/
-    List of companies: http://wearemadeinny.com/made-in-ny-list/
+- Made in New York City: http://nytm.org/made-in-nyc
+- We're made in NYC: http://wearemadeinny.com/
+- List of companies: http://wearemadeinny.com/made-in-ny-list/

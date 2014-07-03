@@ -10,9 +10,9 @@ Now, our events are routinely attended by over 2,000 members of the NYU undergra
 
 We hold events throughout the academic year, open to all students, with a focus on consistency as to build community:
 
-    Every week, we host HackDays, Learn to Code, and, in collaboration with Parsons The New School of Design, DesignDays.
-    Every month, we hold DemoDays. Projects students have worked on, either at HackDays, DesignDays, or in their dorm rooms get two to five minutes each to show the rest of the student population what they've produced. This is a celebration of sorts, a celebration of creation.
-    Every semester, we host Startup Week, a weeklong event dedicated to the innovation occurring NYC and exposing students to startup culture.
+- Every week, we host HackDays, Learn to Code, and, in collaboration with Parsons The New School of Design, DesignDays.
+- Every month, we hold DemoDays. Projects students have worked on, either at HackDays, DesignDays, or in their dorm rooms get two to five minutes each to show the rest of the student population what they've produced. This is a celebration of sorts, a celebration of creation.
+- Every semester, we host Startup Week, a weeklong event dedicated to the innovation occurring NYC and exposing students to startup culture.
 
 We also engage regularly with a number of NYC entrepreneurs who serve as mentors to students. Only a couple years old, Tech@NYU is one of the most diverse, most forward-moving student organizations in NYC.
 
@@ -23,8 +23,8 @@ Technology moves mountains. It has transformed nearly every sphere of human acti
 
 Tech@NYU has the largest footprint of any student tech entrepreneurship organization in New York City. We have ties to major schools in the area, including Princeton, Columbia, Brown, Cooper Union, Parsons: The New School for Design, FIT, Pace, Pratt, Fordham, and Hofstra. In addition:
 
-- our bi-weekly digest has over 4000 subscribers
+- Our bi-weekly digest has over 4000 subscribers
 - @TechatNYU has 8500+ followers
-- our alumni have strong connections with the community: one alum raised $100K for hackNY, and another will donate $120K in scholarships for startup education for students in the next year
-- we see ~2000 unique attendees over the course of the school year
+- Our alumni have strong connections with the community: one alum raised $100K for hackNY, and another will donate $120K in scholarships for startup education for students in the next year
+- We see ~2000 unique attendees over the course of the school year
 - No other organization connects thousands of students to the larger ecosystem like us, nor prepares them for technology entrepreneurship like us. Join the movement.

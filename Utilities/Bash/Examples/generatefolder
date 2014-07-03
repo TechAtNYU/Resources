@@ -2,7 +2,7 @@
 cd $2
 mkdir $1
 cd $1
-touch README.md Start.md Novice.md Advance.md
+touch README.md
 ls -l
 cd ..
 cd ..
